@@ -1,6 +1,6 @@
 PDFJS Viewer
 ============
-This extension is a rewrite of extension owned Lucky Vic luckynvic@gmail.com written in Yii 1
+This extension is a rewrite of extension owned Lucky Vic written in Yii 1
 
 Installation
 ------------
