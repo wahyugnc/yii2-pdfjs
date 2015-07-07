@@ -28,4 +28,5 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \studio92\pdfjs\AutoloadExample::widget(); ?>```
+<?php use wahyugnc\pdfjs\PdfJS; ?>
+<?=PdfJS::widget(['url' => '/path/to/foo/filename.pdf']);?>```
