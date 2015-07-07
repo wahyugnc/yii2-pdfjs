@@ -2,8 +2,8 @@
     "name": "wahyugnc/yii2-pdfjs",
     "description": "Extension ini merupakan penulisan ulang dari Extensionnya milik Lucky Vic <luckynvic@gmail.com> yang ditulis di Yii1",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","pdfjs"],
-    "license": "BSD-2-Clause",
+    "keywords": ["yii2","extension","pdfjs","pdfviewer"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Wahyu Gugus Nurcahyo",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "studio92\\pdfjs\\": ""
+            "wahyugnc\\pdfjs\\": ""
         }
     }
 }

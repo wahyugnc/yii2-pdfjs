@@ -1,6 +1,6 @@
 PDFJS Viewer
 ============
-Extension ini merupakan penulisan ulang dari Extensionnya milik Lucky Vic <luckynvic@gmail.com> yang ditulis di Yii1
+Extension ini merupakan penulisan ulang dari Extensionnya milik Lucky Vic <luckynvic@gmail.com> yang ditulis di Yii 1
 
 Installation
 ------------
