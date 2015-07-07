@@ -17,25 +17,25 @@ use yii\helpers\Html;
 
 class ViewerPDF extends Widget
 {
-	public $url;
-	public $options=[
+     public $url;
+     public $options=[
 	      'sideBarOpen'=>false,
 	      'direction'=>'ltr',
 	      'buttons'=>[
-		'sidebarToggle'=>true,
-		'viewFind'=>true,
-		'pageUp'=>true,
-		'pageDown'=>true,        
-		'zoomIn'=>true,
-		'zoomOut'=>true,
-		'scaleSelect'=>true,
-		'presentationMode'=>true,
-		'print'=>false,
-		'openFile'=>false,
-		'download'=>false,
-		'viewBookmark'=>false,
-	]
-	];
+		  'sidebarToggle'=>true,
+		  'viewFind'=>true,
+		  'pageUp'=>true,
+		  'pageDown'=>true,        
+		  'zoomIn'=>true,
+		  'zoomOut'=>true,
+		  'scaleSelect'=>true,
+		  'presentationMode'=>true,
+		  'print'=>false,
+		  'openFile'=>false,
+		  'download'=>false,
+		  'viewBookmark'=>false,
+	       ]
+     ];
 
 
     public function init()
