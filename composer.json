@@ -1,8 +1,9 @@
 {
     "name": "wahyugnc/yii2-pdfjs",
     "description": "Extension ini merupakan penulisan ulang dari Extensionnya milik Lucky Vic <luckynvic@gmail.com> yang ditulis di Yii1",
-    "type": "yii2-extension",
     "keywords": ["yii2","extension","pdfjs","pdfviewer"],
+    "homepage": "https://github.com/wahyugnc/yii2-pdfjs",
+    "type": "yii2-extension",
     "license": "MIT",
     "authors": [
         {
