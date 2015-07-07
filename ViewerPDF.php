@@ -1,4 +1,11 @@
 <?php
+/**
+ * @author Wahyu Gugus Nurcahyo <wahyugnc@gmail.com>
+ * @link https://github.com/wahyugnc/yii2-pdfjs
+ * @license http://www.opensource.org/licenses/bsd-license.php
+ * @package https://packagist.org/packages/wahyugnc/yii2-pdfjs
+ * @version 1.0.0
+ */
 
 namespace wahyugnc\pdfjs;
 
