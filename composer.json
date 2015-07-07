@@ -11,6 +11,7 @@
             "email": "wahyugnc@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "yiisoft/yii2": "*"
     },
