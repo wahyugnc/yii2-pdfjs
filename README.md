@@ -28,5 +28,5 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?php use wahyugnc\pdfjs\PdfJS; ?>
-<?=PdfJS::widget(['url' => '/path/to/foo/filename.pdf']);?>```
+<?php use wahyugnc\pdfjs\ViewerPDF; ?>
+<?=ViewerPDF::widget(['url' => '/path/to/filename.pdf']);?>```
