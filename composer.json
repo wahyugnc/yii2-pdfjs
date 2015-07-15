@@ -1,6 +1,6 @@
 {
     "name": "wahyugnc/yii2-pdfjs",
-    "description": "This extension is a rewrite of extension owned Lucky Vic written in Yii 1",
+    "description": "This extension is a rewrite of extension owned Lucky Vic luckynvic@gmail.com written in Yii 1",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","pdfjs","pdfviewer"],
     "license": "MIT",
